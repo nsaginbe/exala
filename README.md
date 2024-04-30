@@ -9,6 +9,6 @@ Note:
 Text me in telegram @shyzhuk if any misunderstandings comes
 
 Endpoints:
-http://localhost:8080/ - main page'\n'
-http://localhost:8080/admin - event creation page'\n'
-http://localhost:8080/event/id - to see more information about the event'\n'
+1. http://localhost:8080/ - main page
+2. http://localhost:8080/admin - event creation page
+3. http://localhost:8080/event/id - to see more information about the event'\n'
